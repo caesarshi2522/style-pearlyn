@@ -1,0 +1,4 @@
+interface:
+  display_name: "Style Pearlyn"
+  short_description: "看图选风格，改写已有 HTML，或先设定当前任务的默认网页风格"
+  default_prompt: "使用 $style-atlas 打开风格面板；已有 HTML 时改写，否则先选本任务默认网页风格。"

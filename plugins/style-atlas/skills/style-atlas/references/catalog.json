@@ -1,0 +1,614 @@
+[
+  {
+    "code": "CAF",
+    "name": "复古咖啡馆",
+    "english": "Cafe Storybook",
+    "description": "灯光、手绘与纸张，让网页像一本温暖的故事。",
+    "colors": [
+      "#18252c",
+      "#f5ead4",
+      "#d6ad71",
+      "#914a32"
+    ],
+    "font": "宋体/Georgia 衬线标题，少量楷体批注，清晰无衬线正文。",
+    "layout": "图文交错的叙事分区、细金边与纸质卡片。",
+    "imagery": "日系绘本咖啡馆、人物、暖灯与手稿，作为独立图片。",
+    "avoid": "荧光色、通用渐变、整张海报代替网页。",
+    "tags": [
+      "产品介绍",
+      "品牌故事",
+      "插画"
+    ],
+    "id": "CAF-01",
+    "title": "夜间咖啡馆",
+    "variant": 1,
+    "variantLayout": "左右分栏的沉浸首页，插画为主视觉。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "EDT",
+    "name": "编辑部杂志",
+    "english": "Editorial Journal",
+    "description": "大字、留白与错落图像，像翻阅独立杂志。",
+    "colors": [
+      "#f7f2e9",
+      "#1c1919",
+      "#792b3b",
+      "#c5b8aa"
+    ],
+    "font": "高对比衬线大标题与细无衬线说明，鲜明字号级差。",
+    "layout": "非对称杂志网格、跨栏标题、图片旁注。",
+    "imagery": "有主题的摄影或艺术图像，少量大图。",
+    "avoid": "等尺寸卡片堆砌、段落全部居中、过多装饰。",
+    "tags": [
+      "作品集",
+      "内容阅读",
+      "产品介绍"
+    ],
+    "id": "EDT-01",
+    "title": "封面故事",
+    "variant": 1,
+    "variantLayout": "大号标题与主图错位的杂志封面。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "SWI",
+    "name": "瑞士平面设计",
+    "english": "Swiss International",
+    "description": "严格网格、醒目编号，清楚而有力量。",
+    "colors": [
+      "#f7f7f1",
+      "#171717",
+      "#e23c22",
+      "#b9b9b2"
+    ],
+    "font": "中性无衬线、粗大标题、克制的小字。",
+    "layout": "明确列网格、超大数字、严格对齐、细分割线。",
+    "imagery": "少量黑白摄影或功能图表，排版承担主视觉。",
+    "avoid": "随意旋转、软萌图标、过多圆角和阴影。",
+    "tags": [
+      "报告展示",
+      "产品介绍",
+      "少素材"
+    ],
+    "id": "SWI-01",
+    "title": "秩序与宣言",
+    "variant": 1,
+    "variantLayout": "巨大左对齐标题、红色强调与编号引导。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "MIN",
+    "name": "极简产品展示",
+    "english": "Quiet Product",
+    "description": "去掉干扰，让产品和关键句成为主角。",
+    "colors": [
+      "#fafafa",
+      "#141414",
+      "#d5d8dd",
+      "#6e7379"
+    ],
+    "font": "精简无衬线、中等标题字重、宽松正文行高。",
+    "layout": "大留白、短文案、显著视觉焦点，分区少而完整。",
+    "imagery": "精致产品或界面特写，干净背景与真实材质。",
+    "avoid": "低对比灰字、删掉必要内容、复杂背景。",
+    "tags": [
+      "产品介绍",
+      "品牌故事",
+      "低密度"
+    ],
+    "id": "MIN-01",
+    "title": "安静的产品舞台",
+    "variant": 1,
+    "variantLayout": "居中产品与一句明确主张构成首页。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "TEC",
+    "name": "深色科技",
+    "english": "Night Systems",
+    "description": "深底与精密数据，强调运行状态和可信度。",
+    "colors": [
+      "#09131f",
+      "#182b3a",
+      "#58d8db",
+      "#a3efbc"
+    ],
+    "font": "几何无衬线搭配等宽数据，数字对齐。",
+    "layout": "层级面板、精细描边、紧凑状态区。",
+    "imagery": "技术抽象视觉、可解释图表与流程，少量光效。",
+    "avoid": "无意义发光、伪数据、细字对比不足。",
+    "tags": [
+      "产品介绍",
+      "数据工具",
+      "深色"
+    ],
+    "id": "TEC-01",
+    "title": "系统已就绪",
+    "variant": 1,
+    "variantLayout": "大标题、技术主视觉与少量关键状态。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "JAP",
+    "name": "日式生活方式",
+    "english": "Everyday Ritual",
+    "description": "自然光和细腻文字，安静地讲清内容。",
+    "colors": [
+      "#f3eee3",
+      "#393b31",
+      "#7d8568",
+      "#b4a38b"
+    ],
+    "font": "可读的纤细中文衬线标题，细致字距。",
+    "layout": "非对称留白、自然图像、细分割线。",
+    "imagery": "自然光空间、器物、植物与纸张摄影。",
+    "avoid": "过低对比、过多胶囊标签、装饰替代信息。",
+    "tags": [
+      "品牌故事",
+      "内容阅读",
+      "摄影"
+    ],
+    "id": "JAP-01",
+    "title": "日常的准备",
+    "variant": 1,
+    "variantLayout": "自然空间大图与短文案相对留白。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "NEW",
+    "name": "复古报纸",
+    "english": "The Daily Edition",
+    "description": "报头、栏线与纸色，像一份值得细读的报刊。",
+    "colors": [
+      "#eee3ce",
+      "#26221d",
+      "#9a402c",
+      "#b7a78d"
+    ],
+    "font": "报刊粗衬线标题，易读正文与多级小标题。",
+    "layout": "多栏网格、跨栏报头、横线；手机按顺序单列。",
+    "imagery": "半色调摄影、版画、黑白图像。",
+    "avoid": "文字过度做旧、小屏强保多栏、无意义小字。",
+    "tags": [
+      "内容阅读",
+      "报告展示",
+      "高密度"
+    ],
+    "id": "NEW-01",
+    "title": "今日头版",
+    "variant": 1,
+    "variantLayout": "头版首页，主标题跨栏，摘要分列。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "GEO",
+    "name": "大胆几何",
+    "english": "Playful Geometry",
+    "description": "明快色块与大字碰撞，用构图表达活力。",
+    "colors": [
+      "#2544df",
+      "#ffdb3d",
+      "#e45439",
+      "#fbf6e9"
+    ],
+    "font": "粗无衬线大标题，短句与字号强对比。",
+    "layout": "不对称大色块、明显分区、几何模块与留白。",
+    "imagery": "几何抽象图形与图文拼贴。",
+    "avoid": "颜色过杂、阅读逻辑混乱、形状遮挡文本。",
+    "tags": [
+      "产品介绍",
+      "品牌故事",
+      "活泼"
+    ],
+    "id": "GEO-01",
+    "title": "想法有形状",
+    "variant": 1,
+    "variantLayout": "巨大标题与错位几何色块的品牌首页。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "BRU",
+    "name": "新粗野主义",
+    "english": "Bold & Unfiltered",
+    "description": "厚边、硬阴影和直接文字，让动作醒目。",
+    "colors": [
+      "#cef34e",
+      "#b998e7",
+      "#151515",
+      "#fffef5"
+    ],
+    "font": "粗体无衬线与简短文案，必要信息常规字号。",
+    "layout": "硬边框、偏移阴影、明确模块边界。",
+    "imagery": "大胆裁切界面和图形，不依赖复杂摄影。",
+    "avoid": "随意对齐、炫色损害对比、所有元素都巨大。",
+    "tags": [
+      "产品介绍",
+      "数据工具",
+      "活泼"
+    ],
+    "id": "BRU-01",
+    "title": "直接开场",
+    "variant": 1,
+    "variantLayout": "酸绿与紫色、超大标题与强 CTA。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "ART",
+    "name": "艺术画廊",
+    "english": "Curated Space",
+    "description": "作品占据舞台，说明安静地退到边缘。",
+    "colors": [
+      "#f8f7f3",
+      "#252422",
+      "#b8b4aa",
+      "#876450"
+    ],
+    "font": "精致衬线标题、无衬线旁注，正文保持可读。",
+    "layout": "非对称展陈、留白、作品编号与细说明。",
+    "imagery": "大幅艺术作品、雕塑或材质摄影。",
+    "avoid": "隐藏导航、作品拥挤、无关艺术文案。",
+    "tags": [
+      "作品集",
+      "品牌故事",
+      "低密度"
+    ],
+    "id": "ART-01",
+    "title": "作品的空间",
+    "variant": 1,
+    "variantLayout": "单件大幅作品与短标题构成画廊首页。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "SCR",
+    "name": "手账拼贴",
+    "english": "Collected Notes",
+    "description": "便签、纸片和手写标注，留下思考过程。",
+    "colors": [
+      "#eadbc3",
+      "#54594b",
+      "#b66d52",
+      "#f8f0df"
+    ],
+    "font": "标题正文保持易读，手写只用于少量批注。",
+    "layout": "有秩序的纸片分组与微旋转，不影响点击区域。",
+    "imagery": "撕纸、照片、胶带和手绘批注，统一光线。",
+    "avoid": "过度叠放、文字栅格化、手写正文。",
+    "tags": [
+      "品牌故事",
+      "作品集",
+      "插画"
+    ],
+    "id": "SCR-01",
+    "title": "收集好想法",
+    "variant": 1,
+    "variantLayout": "照片与便签错落拼贴的叙事首页。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "PRO",
+    "name": "专业工作台",
+    "english": "Clear Workbench",
+    "description": "表格、状态与操作一目了然，优先把事情做成。",
+    "colors": [
+      "#f4f6f9",
+      "#172338",
+      "#3565ca",
+      "#cbd4e1"
+    ],
+    "font": "清晰无衬线，数字对齐，常用标签不小于14px。",
+    "layout": "侧栏、工具栏、工作区与上下文面板，高密度分组。",
+    "imagery": "表格、列表与图表，不加装饰主视觉。",
+    "avoid": "营销大图、无意义统计、伪按钮、仅靠颜色表达状态。",
+    "tags": [
+      "数据工具",
+      "报告展示",
+      "高密度"
+    ],
+    "id": "PRO-01",
+    "title": "演示项目中心",
+    "variant": 1,
+    "variantLayout": "项目列表、筛选与最近协作的工作首页。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "GLA",
+    "name": "玻璃质感",
+    "english": "Glass Studio",
+    "description": "通透玻璃与柔光叠层，轻盈而有空间感。",
+    "colors": [
+      "#edf2ff",
+      "#26315a",
+      "#a6baff",
+      "#dfc7f8"
+    ],
+    "font": "清晰无衬线标题与正文，深色文字保证玻璃上的可读性。",
+    "layout": "清晰主标题配叠层界面预览，玻璃层数克制。",
+    "imagery": "蓝紫柔光背景、半透明毛玻璃面板、通透边缘。",
+    "avoid": "玻璃上低对比文字、过多模糊层。",
+    "tags": [
+      "玻璃质感",
+      "Glass Studio"
+    ],
+    "id": "GLA-01",
+    "title": "通透玻璃与柔光叠层，轻盈而有空间感。",
+    "variant": 1,
+    "variantLayout": "清晰主标题配叠层界面预览，玻璃层数克制。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "CLY",
+    "name": "柔软 3D",
+    "english": "Soft 3D",
+    "description": "圆润立体物件与柔和配色，亲切又有趣。",
+    "colors": [
+      "#fff5ec",
+      "#5a4379",
+      "#bfa3e8",
+      "#efbba0"
+    ],
+    "font": "圆润无衬线，醒目大标题与舒适行距。",
+    "layout": "左右分栏，大幅圆润插画配短文案。",
+    "imagery": "奶油底色、黏土般圆润的 3D 插画、柔和阴影与圆角按钮。",
+    "avoid": "立体装饰挤占正文、过度幼稚。",
+    "tags": [
+      "柔软 3D",
+      "Soft 3D"
+    ],
+    "id": "CLY-01",
+    "title": "圆润立体物件与柔和配色，亲切又有趣。",
+    "variant": 1,
+    "variantLayout": "左右分栏，大幅圆润插画配短文案。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "LUX",
+    "name": "优雅轻奢",
+    "english": "Quiet Luxury",
+    "description": "细衬线、深色与金色细节，沉静而精致。",
+    "colors": [
+      "#191c18",
+      "#e8dfcf",
+      "#bda06b",
+      "#737c6c"
+    ],
+    "font": "细衬线大标题，精简无衬线说明。",
+    "layout": "摄影与文字分栏，大幅留白和细线分区。",
+    "imagery": "深橄榄与香槟金，细衬线标题，大幅材质摄影。",
+    "avoid": "细字难读、金色堆砌、装饰抢过内容。",
+    "tags": [
+      "优雅轻奢",
+      "Quiet Luxury"
+    ],
+    "id": "LUX-01",
+    "title": "细衬线、深色与金色细节，沉静而精致。",
+    "variant": 1,
+    "variantLayout": "摄影与文字分栏，大幅留白和细线分区。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "COR",
+    "name": "清爽商务",
+    "english": "Clear Business",
+    "description": "清晰的蓝白配色与可靠的信息秩序。",
+    "colors": [
+      "#ffffff",
+      "#143766",
+      "#2269d8",
+      "#eaf2fc"
+    ],
+    "font": "中等字重无衬线，标题与正文层级明确。",
+    "layout": "规整分栏首页，行动按钮显著，下接服务说明。",
+    "imagery": "蓝白配色、规整分栏、真实团队摄影与清晰行动按钮。",
+    "avoid": "过多表格、陈旧渐变按钮、虚构业务成绩。",
+    "tags": [
+      "清爽商务",
+      "Clear Business"
+    ],
+    "id": "COR-01",
+    "title": "清晰的蓝白配色与可靠的信息秩序。",
+    "variant": 1,
+    "variantLayout": "规整分栏首页，行动按钮显著，下接服务说明。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "POP",
+    "name": "可爱卡通",
+    "english": "Playful Cartoon",
+    "description": "明亮颜色与手绘角色，让页面轻松有活力。",
+    "colors": [
+      "#fff9db",
+      "#303134",
+      "#ffb9ca",
+      "#8bd1b4"
+    ],
+    "font": "圆润有力的标题，正文使用清晰无衬线。",
+    "layout": "大标题和角色插画形成焦点，下接趣味内容模块。",
+    "imagery": "奶黄底色、粉绿撞色、粗轮廓平面卡通与圆润大字。",
+    "avoid": "卡通盖住按钮、正文使用难读手写体。",
+    "tags": [
+      "可爱卡通",
+      "Playful Cartoon"
+    ],
+    "id": "POP-01",
+    "title": "明亮颜色与手绘角色，让页面轻松有活力。",
+    "variant": 1,
+    "variantLayout": "大标题和角色插画形成焦点，下接趣味内容模块。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "INK",
+    "name": "国风水墨",
+    "english": "Ink Landscape",
+    "description": "水墨山水与书卷留白，清雅而有东方气韵。",
+    "colors": [
+      "#f4f1e9",
+      "#292d2c",
+      "#89958b",
+      "#a94134"
+    ],
+    "font": "宋体标题与疏朗正文，书法仅作少量点缀。",
+    "layout": "非对称山水主视觉与大留白，内容分区疏朗。",
+    "imagery": "宣纸底色、水墨山水、朱红印章点缀、疏朗宋体。",
+    "avoid": "书法正文、装饰遮字、文化符号堆砌。",
+    "tags": [
+      "国风水墨",
+      "Ink Landscape"
+    ],
+    "id": "INK-01",
+    "title": "水墨山水与书卷留白，清雅而有东方气韵。",
+    "variant": 1,
+    "variantLayout": "非对称山水主视觉与大留白，内容分区疏朗。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "PIX",
+    "name": "像素复古",
+    "english": "Pixel Arcade",
+    "description": "像素图形与街机配色，带来鲜明的游戏感。",
+    "colors": [
+      "#15152d",
+      "#eeddaa",
+      "#8ed46b",
+      "#b1a0ed"
+    ],
+    "font": "像素标题，正文使用易读等宽字体。",
+    "layout": "文字与像素场景分栏，下方可组织任务或作品。",
+    "imagery": "深靛底色、像素字体、8-bit 场景与游戏菜单式按钮。",
+    "avoid": "长正文全用像素字、缩放导致像素模糊。",
+    "tags": [
+      "像素复古",
+      "Pixel Arcade"
+    ],
+    "id": "PIX-01",
+    "title": "像素图形与街机配色，带来鲜明的游戏感。",
+    "variant": 1,
+    "variantLayout": "文字与像素场景分栏，下方可组织任务或作品。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "Y2K",
+    "name": "Y2K 潮流",
+    "english": "Chrome Playground",
+    "description": "液态金属、亮粉与实验排版，张扬而有个性。",
+    "colors": [
+      "#eeeef2",
+      "#181321",
+      "#fc71ca",
+      "#b9ed58"
+    ],
+    "font": "紧凑夸张的无衬线标题，清晰小字说明。",
+    "layout": "大字与金属主视觉交错，下方作品索引。",
+    "imagery": "银色金属、亮粉点缀、夸张无衬线、星形与轨道装饰。",
+    "avoid": "金属文字难读、所有区域同时抢眼。",
+    "tags": [
+      "Y2K 潮流",
+      "Chrome Playground"
+    ],
+    "id": "Y2K-01",
+    "title": "液态金属、亮粉与实验排版，张扬而有个性。",
+    "variant": 1,
+    "variantLayout": "大字与金属主视觉交错，下方作品索引。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "TER",
+    "name": "终端代码",
+    "english": "Terminal Notes",
+    "description": "等宽字体与字符界面，直接呈现开发者气质。",
+    "colors": [
+      "#101612",
+      "#b8e6c4",
+      "#52cc86",
+      "#647d6c"
+    ],
+    "font": "等宽标题与正文，代码保持语法层次。",
+    "layout": "命令式标题与终端预览分栏，细线组织说明。",
+    "imagery": "近黑底色、绿色等宽文字、命令行与细线分区。",
+    "avoid": "把正文写成无意义代码、满屏闪烁。",
+    "tags": [
+      "终端代码",
+      "Terminal Notes"
+    ],
+    "id": "TER-01",
+    "title": "等宽字体与字符界面，直接呈现开发者气质。",
+    "variant": 1,
+    "variantLayout": "命令式标题与终端预览分栏，细线组织说明。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "ORG",
+    "name": "自然有机",
+    "english": "Organic Living",
+    "description": "植物、泥土色与自然曲线，舒适而有生命感。",
+    "colors": [
+      "#eee9db",
+      "#43543c",
+      "#b87554",
+      "#b6c29c"
+    ],
+    "font": "温润衬线标题与清晰无衬线正文。",
+    "layout": "摄影与文字自然交错，曲线局部使用。",
+    "imagery": "鼠尾草绿、陶土与亚麻色，大幅植物摄影、不规则自然边缘。",
+    "avoid": "大面积纹理影响阅读、用自然曲线装饰所有组件。",
+    "tags": [
+      "自然有机",
+      "Organic Living"
+    ],
+    "id": "ORG-01",
+    "title": "植物、泥土色与自然曲线，舒适而有生命感。",
+    "variant": 1,
+    "variantLayout": "摄影与文字自然交错，曲线局部使用。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "CIN",
+    "name": "电影叙事",
+    "english": "Cinematic Story",
+    "description": "全屏摄影与克制的大字，带来沉浸式叙事。",
+    "colors": [
+      "#0e171e",
+      "#f1e9dd",
+      "#7b8f9a",
+      "#cc9d67"
+    ],
+    "font": "有张力的大标题，小字如电影字幕般克制。",
+    "layout": "全幅摄影首屏，文字叠加在安静区域。",
+    "imagery": "暗调全幅摄影、电影字幕感文字、少量导航与显著留白。",
+    "avoid": "暗图暗字、重视频拖慢加载、导航隐藏。",
+    "tags": [
+      "电影叙事",
+      "Cinematic Story"
+    ],
+    "id": "CIN-01",
+    "title": "全屏摄影与克制的大字，带来沉浸式叙事。",
+    "variant": 1,
+    "variantLayout": "全幅摄影首屏，文字叠加在安静区域。",
+    "source": "AI 生成视觉参考"
+  },
+  {
+    "code": "AUR",
+    "name": "柔彩渐变",
+    "english": "Soft Aurora",
+    "description": "柔和流动的色彩与轻巧排版，明亮又现代。",
+    "colors": [
+      "#faf7ff",
+      "#383057",
+      "#c8b6fa",
+      "#f1bbcd"
+    ],
+    "font": "干净轻巧的无衬线，宽松行距与明显层级。",
+    "layout": "居中短主张与单一界面预览，渐变烘托背景。",
+    "imagery": "粉紫与浅蓝的大范围柔和渐变，白色界面与轻巧无衬线。",
+    "avoid": "渐变文字低对比、无关光球、多个焦点互相争抢。",
+    "tags": [
+      "柔彩渐变",
+      "Soft Aurora"
+    ],
+    "id": "AUR-01",
+    "title": "柔和流动的色彩与轻巧排版，明亮又现代。",
+    "variant": 1,
+    "variantLayout": "居中短主张与单一界面预览，渐变烘托背景。",
+    "source": "AI 生成视觉参考"
+  }
+]

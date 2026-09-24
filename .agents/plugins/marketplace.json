@@ -1,0 +1,20 @@
+{
+  "name": "style-pearlyn",
+  "interface": {
+    "displayName": "Style Pearlyn"
+  },
+  "plugins": [
+    {
+      "name": "style-atlas",
+      "source": {
+        "source": "local",
+        "path": "./plugins/style-atlas"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
