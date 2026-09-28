@@ -1,4 +1,5 @@
-<p align="center"><img src="docs/images/cover.png" alt="Style Pearlyn — 看图选风格，让网页更像你想要的样子" width="100%"></p>
+<p align="center"><img src="docs/images/cover.png" alt="Style Pearlyn 风格演示：同一组内容，从浅色块基础排版到艺术画廊风格" width="640"></p>
+<p align="center"><sub>主图为 AI 生成的风格演示，展示同一组内容的两种视觉方向；不是插件运行的实测截图。</sub></p>
 
 <h1 align="center">Style Pearlyn</h1>
 <p align="center"><strong>不用想怎么描述设计。选一张图，让 Codex 接着做。</strong></p>
@@ -7,12 +8,15 @@
 
 <p>Style Pearlyn 是一个面向 <strong>Codex 本地任务</strong>的视觉风格插件。它把“高级一点”“有杂志感”“像温暖的咖啡馆”变成一张张可以直接选择的参考图，帮助你给已经生成的网页完成最后一步视觉排版，也可以在动手之前先确定风格。</p>
 
-<h2 id="result">同一份内容，另一种表达</h2>
+<h2 id="result">实际改版案例</h2>
+<details>
+<summary>查看「编辑部杂志」风格的真实 HTML 改版前后</summary>
 <table>
 <tr><th width="50%">改版前</th><th width="50%">选择「编辑部杂志」后</th></tr>
 <tr><td><img src="docs/images/before.png" alt="改版前：蓝色强调、粗体标题与侧边导航" width="100%"></td><td><img src="docs/images/after.png" alt="改版后：暖白底色、酒红色强调、衬线标题与横向导航" width="100%"></td></tr>
 </table>
 <p>以上为同一份 HTML 的实际改版截图。插件引导 Codex 保留原有内容与功能，调整配色、字体、间距和必要布局，并另存结果。具体效果取决于输入网页、模型和任务要求。</p>
+</details>
 
 <h2>从“说不清”到“选得出”</h2>
 <table>
